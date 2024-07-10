@@ -10,6 +10,7 @@ Excel
 - Duplicates were searched for and none was found 
 - Preparation involved trimming and keeping the data in a proper form using the TRIM and PROPER formula
 - There were missing values, they were ignored as it was mostly Cabin and few were Age, Cabin is negligible.
+- Age was grouped into ranges with intervals of 10.
 ### Exploratory Data Analysis
 The aim of the analysis is to find the classes or type of people who survived the crash and if there are factors which affected the chance of surviving, the target questions were:
 1. Did the Gender, Age and presence of relative play a role in those who survived or not?
